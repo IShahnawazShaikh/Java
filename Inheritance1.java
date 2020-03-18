@@ -6,7 +6,7 @@ class Parent{
 }
 public class Inheritance1 extends Parent{
 	 Inheritance1(){
-		 super(30);
+		 super(20);
        System.out.println("Child="+this);
 	 }
 	 public static void main(String...x){
